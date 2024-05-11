@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-06T10:22:02 IST" name="Suite" finished-at="2024-05-06T10:23:01 IST" duration-ms="59634">
+    <groups>
+    </groups>
+    <test started-at="2024-05-06T10:22:02 IST" name="Test" finished-at="2024-05-06T10:23:01 IST" duration-ms="59634">
+      <class name="practo.TestNgMain">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:02 IST" name="setup" finished-at="2024-05-06T10:22:09 IST" duration-ms="6970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cityAndDoctors()[pri:1, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:09 IST" name="cityAndDoctors" finished-at="2024-05-06T10:22:13 IST" duration-ms="4432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityAndDoctors -->
+        <test-method signature="Stories()[pri:2, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:16 IST" name="Stories" finished-at="2024-05-06T10:22:25 IST" duration-ms="8243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stories -->
+        <test-method signature="getDoctorsDetails()[pri:3, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:28 IST" name="getDoctorsDetails" finished-at="2024-05-06T10:22:28 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDoctorsDetails -->
+        <test-method signature="clickMedicines()[pri:4, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:31 IST" name="clickMedicines" finished-at="2024-05-06T10:22:34 IST" duration-ms="2678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMedicines -->
+        <test-method signature="scrollwindow()[pri:5, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:37 IST" name="scrollwindow" finished-at="2024-05-06T10:22:39 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollwindow -->
+        <test-method signature="clickHealthAndWellness()[pri:6, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:42 IST" name="clickHealthAndWellness" finished-at="2024-05-06T10:22:47 IST" duration-ms="4877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHealthAndWellness -->
+        <test-method signature="nameof(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:50 IST" name="nameof" data-provider="dp" finished-at="2024-05-06T10:22:55 IST" duration-ms="4547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Evneet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GP Homes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9660780819]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[evneetkour8847@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameof -->
+        <test-method signature="thankyouInformation()[pri:8, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:22:58 IST" name="thankyouInformation" finished-at="2024-05-06T10:22:58 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thankyouInformation -->
+        <test-method is-config="true" signature="end()[pri:0, instance:practo.TestNgMain@75d3a5e0]" started-at="2024-05-06T10:23:01 IST" name="end" finished-at="2024-05-06T10:23:01 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- practo.TestNgMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
